@@ -1,0 +1,5 @@
+- Explored IPL 2022 and iPhone sales data using Python.
+- Utilized libraries such as pandas, numpy, and plotly for data visualization.
+- Created compelling graphical representations of data.
+- Applied data analysis techniques to interpret sales and sports data.
+- Generated insightful visualizations to present key findings.
